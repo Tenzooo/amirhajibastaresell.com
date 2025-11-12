@@ -1,0 +1,10 @@
+Instructions to upload your site to GitHub Pages:
+
+1. Go to https://github.com and sign in (or create a free account).
+2. Click 'New Repository' → name it something like funny-picture → make it Public → Create repository.
+3. Click 'Upload files' → drag these files (index.html and your funny.jpg) into it.
+4. Click 'Commit changes' to save them.
+5. Go to Settings → Pages (on the left side).
+6. Under 'Branch', select 'main' and click Save.
+7. After 1-2 minutes, your website will be live at:
+   https://yourusername.github.io/funny-picture/
